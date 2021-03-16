@@ -5,3 +5,7 @@ files uploaded from project :
 - MainActivity.kt
 - activity_main.xml
 reference used : YouTube
+
+Sample running :
+
+https://youtu.be/fMkjevWDiZ0
