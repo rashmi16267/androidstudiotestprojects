@@ -7,6 +7,6 @@ files uploaded from project :
 
 reference used : YouTube
 
-Sample running :
+Test run sample :
 
 https://youtu.be/fMkjevWDiZ0
